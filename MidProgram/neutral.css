@@ -1,0 +1,28 @@
+.left {
+    width: 40%;
+    border-right: 10px solid red;
+}
+.right {
+    width: 40%;
+}
+.all {
+    width: 100%
+}
+body {
+    margin: auto;
+    background-color: black;
+    font-family: "Impact";
+    color: red;
+}
+img {
+    float: right;
+}
+/* div[class="left"], div[class="right"] {
+    background-color: red;
+} */
+div {
+    display: inline-block;
+}
+ul {
+    list-style: none;
+}
